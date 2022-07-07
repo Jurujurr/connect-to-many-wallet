@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 솔라나 지갑 연결, 디스커넥 기능 
+
 ## Available Scripts
 
 In the project directory, you can run:
